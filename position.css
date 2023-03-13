@@ -1,0 +1,62 @@
+
+
+.primo{
+    height: 200px;
+    background-color: beige;
+}
+
+.secondo{
+    height: 200px;
+    background-color: rgb(233, 233, 103);
+    position: static;
+}
+
+.terzo{
+    height: 200px;
+    background-color: rgb(108, 221, 127);
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+}
+
+.quarto{
+    height: 200px;
+    background-color: rgb(247, 174, 250);
+}
+
+.quinto{
+    height: 200px;
+    background-color: rgb(255, 120, 67);
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
+.sesto{
+    height: 200px;
+    background-color: rgb(117, 228, 243);
+    position: relative;
+}
+
+.settimo{
+    height: 200px;
+    background-color: rgb(226, 154, 47);
+    position: fixed;
+    top: 20px;
+    left: 40px;
+}
+
+.ottavo{
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+
+.nono{
+    background-color: darkcyan;
+    height: 200px;
+    position: absolute;
+    bottom: 0px;
+}
